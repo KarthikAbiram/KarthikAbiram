@@ -21,6 +21,11 @@ Welcome to my GitHub profile! I'm passionate about building impactful tools and 
 |[Tarzan](https://github.com/KarthikAbiram/Tarzan) | Tarzan helps to analyze waveform data (like from an oscilloscope) and compare against a reference file for amplitude and timing parameters of different segments & generates a report |
 |[Skippy](https://github.com/KarthikAbiram/Skippy) | Skippy is a tool for sending a sequence of SCPI commands from *.txt, *.csv to instrument |
 
+### Tools
+| Name | Description |
+|---|--|
+|[Handyman](https://github.com/KarthikAbiram/Handyman) | Handyman is a general scripting tool which helps to automate batch renaming of files | 
+
 ### NI Package Management
 | Name | Description |
 |---|--|
