@@ -12,6 +12,11 @@ Welcome to my GitHub profile! I'm passionate about building impactful tools and 
 - [Micron](https://github.com/KarthikAbiram/Micron)  
 - [SLL Drona](https://github.com/solitontech/SLL-Drona)
 - [SLL Toolkit](https://github.com/solitontech/SLL-Toolkit)
+- [Tarzan](https://github.com/KarthikAbiram/Tarzan)
+- [Skippy](https://github.com/KarthikAbiram/Skippy)
+- [Copy Exact Package Manager](https://github.com/KarthikAbiram/CEPM)
+- [LabJSON](https://github.com/KarthikAbiram/LabJSON)
+- [tsxml](https://github.com/KarthikAbiram/tsxml)
 
 *I love building tools that make a difference. Check out my repositories for more!*
 
