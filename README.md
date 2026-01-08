@@ -2,7 +2,12 @@
 
 Welcome to my GitHub profile! I'm passionate about building impactful tools and enhancing developer experience (DX). I love combining the power of **LabVIEW** and **Python** to solve real-world problems and streamline workflows.
 
+## 🌱 Personal Digital Garden
+[xtldr.com](https://xtldr.com/) — My digital garden where I share insights, notes, and resources.
+
 ## 🚀 Personal Open Source Projects
+*Proudly Open Source ❤️ - I love building open source tools that make a difference. Check out my repositories for more!*
+
 ### Multi Tech Stack
 | Name | Description |
 |---|--|
@@ -29,17 +34,12 @@ Welcome to my GitHub profile! I'm passionate about building impactful tools and 
 ### NI Package Management
 | Name | Description |
 |---|--|
-|[CEPM](https://github.com/KarthikAbiram/CEPM) | Copy Exact Package Manager which is developed on top of NI Package Manager (NIPM), which is like generating a pip lock file in python |
+|[CEPM](https://github.com/KarthikAbiram/CEPM) | Copy Exact Package Manager is developed on top of NI Package Manager (NIPM), and is equivalent to generating a pip lock file in python for NI Package dependencies |
 
 ### NI TestStand
 | Name | Description |
 |---|--|
 |[tsxml](https://github.com/KarthikAbiram/tsxml) | TestStand XML Parser for Python which converts the XML export of a variable to a Python dictionary/JSON. |
-
-*I love building tools that make a difference. Check out my repositories for more!*
-
-## 🌱 Personal Digital Garden
-[xtldr.com](https://xtldr.com/) — My digital garden where I share insights, notes, and resources.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KarthikAbiram-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/karthikabiram/)
